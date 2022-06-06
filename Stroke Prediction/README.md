@@ -30,7 +30,7 @@
 3. K-Fold Validation Mean Accuracy
 4. Standard Deviation
 5. ROC AUC Score
-6. precision
-7. recall
-8. f1-score
+6. Precision
+7. Recall
+8. F1-score
 
